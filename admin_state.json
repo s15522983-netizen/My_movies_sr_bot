@@ -1,0 +1,6 @@
+{
+    "5982730614": {
+        "action": "add_specific_episode_tv",
+        "step": "ask_show_season_episode"
+    }
+}
